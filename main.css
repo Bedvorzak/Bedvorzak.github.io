@@ -1,0 +1,27 @@
+.btn-wrapper {
+    display: inline-flex;
+}
+
+.btn {
+    margin-right: 1rem;
+    margin-left: 1rem;
+    padding: 1rem;
+    border-radius: 0.3rem;
+    background-color: white;
+    color: black;
+}
+
+.btn-red {
+    background-color: red;
+    color: rgb(65, 0, 0);
+}
+
+.btn-blue {
+    background-color: blue;
+    color: rgb(0, 0, 65);
+}
+
+.btn-green {
+    background-color: green;
+    color: rgb(0, 65, 0);
+}

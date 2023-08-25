@@ -25,3 +25,16 @@
     background-color: green;
     color: rgb(0, 65, 0);
 }
+body {
+    min-height: 100vh;
+    }
+    
+    footer {
+    padding: 1rem;
+    margin: 0;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    min-width: 100%;
+    }
+    
